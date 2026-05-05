@@ -60,6 +60,11 @@
    <a href="https://github.com/RaquelA3/barbertalk4.git" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio" /></a>
    <br>
    *Proyecto para la creación de una página web para la realización de citas dentro de una barbería. (Se colaboró realizando el backend, el cual tiene una serie de endpoints para realizar las consultas a la base de datos).*
+<br>
+9. **<a href="https://github.com/VazVel/Residencia.git" target="_blank">Proyecto de contratos</a>**
+   <a href="https://github.com/VazVel/Residencia.git" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio" /></a>
+   <br>
+   *Proyecto para el almacenamiento correcto de contratos firmados dentro de la empresa de BODESA, la aplicación fue desarrollada con tecnologías como Node.js, PostgreSQL y react*
 </p>
 </div>
 <br>
